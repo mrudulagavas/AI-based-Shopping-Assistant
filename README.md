@@ -58,8 +58,8 @@ To get started with ShopAssist AI, follow these steps:
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/dynamicanupam/ShopAssist-AI.git
-   cd ShopAssist-AI
+   git clone https://github.com/mrudulagavas/AI-based-Shopping-Assistant.git
+   cd AI-based-Shopping-Assistant
    ```
 2. **Lunch VS Code from Anaconda**
    - In VS Code go to `File` > `Open Folder...` and select the `ShopassistAI` folder.
