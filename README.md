@@ -57,13 +57,13 @@ The Flask application utilizes various functionalities:
 To get started with ShopAssist AI, follow these steps:
 
 1. **Clone the repository:**
-   ```
-   git clone https://github.com/mrudulagavas/AI-based-Shopping-Assistant.git
-   cd AI-based-Shopping-Assistant
-   ```
+```
+git clone https://github.com/mrudulagavas/AI-based-Shopping-Assistant.git
+cd AI-based-Shopping-Assistant
+```
 2. **Lunch VS Code from Anaconda**
-   - In VS Code go to `File` > `Open Folder...` and select the `ShopassistAI` folder.
-   - Open a terminal in VS Code (``Ctrl+` `` or go to `Terminal` > `New Terminal`).
+- In VS Code go to `File` > `Open Folder...` and select the `ShopassistAI` folder.
+- Open a terminal in VS Code (``Ctrl+` `` or go to `Terminal` > `New Terminal`).
 2. **Install dependencies:**
 ```   
 pip install -r requirements.txt
