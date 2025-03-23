@@ -1,4 +1,4 @@
-# GenAI_based_Shopping_Assistant
+# AI_based_Shopping_Assistant
 
 
 ## 1. Background
